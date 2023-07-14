@@ -1,0 +1,16 @@
+{
+    "id": "sa-empty",
+    "name": "内容为空",
+    "displayName": "内容为空",
+    "version": "V1.0.0",
+    "description": "数据加载完成以后，没有得到任何数据，页面显示为空状态",
+    "keywords": [
+        "暂无数据、内容为空、空状态"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
